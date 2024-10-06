@@ -6,9 +6,8 @@ What is it?
 A simple web application that helps users send messages through a "Contact Us" form and manage a list of courses.
 Main Features:
 
-Contact Us Form:
 
-Users can fill out a form with their name, email, and a message.
+Contact Us Form: Users can fill out a form with their name, email, and a message.
 When they submit the form, their information is saved, and they see a message saying their message was sent.
 Course Management API:
 
