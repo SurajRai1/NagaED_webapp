@@ -21,6 +21,9 @@ How It Works:
 The app uses a tool called Flask to create the web pages and handle user requests.
 Users interact with the app through a web browser or a program called Postman.
 The information about courses is stored in a list, and each course is kept in the order it was added.
+Note : I used POSTMAN to test the CRUD operations and have passed each succesfully.
+
+
 Why is it useful?
 
 This app makes it easy for people to contact the company and helps manage information about educational courses in a simple way.
